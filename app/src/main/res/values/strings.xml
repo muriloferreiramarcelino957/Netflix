@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Netflix</string>
+    <string name="s_ries">Séries</string>
+    <string name="minha_lista">Minha Lista</string>
+    <string name="filmes">Filmes</string>
+    <string name="drama">Drama</string>
+    <string name="xadrez">Xadrez</string>
+    <string name="GuerraFria">Guerra Fria</string>
+    <string name="assistir">Assistir</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="lan_amentos">Lançamentos</string>
 </resources>
